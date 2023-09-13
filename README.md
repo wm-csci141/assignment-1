@@ -20,7 +20,7 @@ Write a program that convert a integer to string. For example, if the input is
 Given 2 stings, s1 and s2, print a new string that concatenates s1 and s2. For
 example, if s1 is "Hello" and s2 is "World", the output should be "HelloWorld".
 
-## Problem 4 (10 points)
+## Problem 5 (10 points)
 Given two strings s1 and s2, print a new string that concatenates s1 and s2. 
 This time, add a space between s1 and s2. For example, if s1 is "Hello" and s2
 is "World", the output should be "Hello World".
